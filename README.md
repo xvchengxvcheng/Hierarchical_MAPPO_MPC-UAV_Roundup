@@ -50,11 +50,11 @@ python train/reward_graph.py --log_dirs results/MyEnv/MyEnv/mappo/check/run58/lo
 
 ### Example Snapshots
 
-- MPC result: `episode_76_step_191_success_mpc`
+- MPC result:
 
 ![](pic/episode_76_step_191_success_mpc.png)
 
-- PID result: `episode_76_step_244_success_pid`
+- PID result:
 
 ![](pic/episode_76_step_244_success_pid.png)
 
