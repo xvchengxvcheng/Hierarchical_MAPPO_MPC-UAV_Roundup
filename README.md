@@ -60,8 +60,8 @@ python train/reward_graph.py --log_dirs results/MyEnv/MyEnv/mappo/check/run58/lo
 
 ## Videos
 
-- Sparse obstacles: [`sparse obstacle.mp4`](pic/sparse%20obstacle.mp4)
-- Dense obstacles: [`dense obstacle.mp4`](pic/dense%20obstacle.mp4)
+- Sparse obstacles: [`sparse_obstacle.mp4`](pic/sparse_20obstacle.mp4)
+- Dense obstacles: [`dense_obstacle.mp4`](pic/dense_20obstacle.mp4)
 
 ## Contact
 
